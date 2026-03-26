@@ -53,7 +53,6 @@ AI-FRS includes a **user-friendly graphical interface** that allows clinicians t
 
 ## Repository Status
 The dataset will be made available upon registration and approval.  
-This repository currently provides a description of the methodology and system.
 
 ## Authors
 - Abimael Guzman-Pando  
